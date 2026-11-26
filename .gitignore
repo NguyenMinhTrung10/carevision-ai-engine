@@ -1,0 +1,10 @@
+.venv/
+.env
+snapshots/
+event_queue.jsonl
+datasets/raw/*
+datasets/processed/*
+!datasets/**/.gitkeep
+*.pt
+*.onnx
+__pycache__/

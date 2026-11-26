@@ -1,0 +1,7 @@
+# Ngưỡng luật té ngã (điểm khởi đầu, cần chỉnh bằng dữ liệu thật)
+drop_speed: 0.6        # chiều cao người / giây
+angle_deg: 55
+aspect: 1.1
+lying_sec: 2.0
+drop_memory_sec: 2.0
+cooldown_sec: 30
